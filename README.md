@@ -1,10 +1,10 @@
 Estrutura de sites simples!
 =============
-É importante manter um padrão para que todos os profissionais da área possa realizar alterações no seu projeto sem dificuldades.
+É importante manter um padrão para que todos os profissionais da área possa realizar alterações sem dificuldades.
 
 index.html - Esse é o primeiro arquivo que seu navegador vai acessar. Ele deve conter todas as ligações do site.
 
-favicon.ico - Pequenas imagens ficam guardados em um site para visualização pelo navegador.
+favicon.ico - São pequenas imagens que ficam guardadas para visualização pelo navegador.
 
 Pasta css - Todos os estilos do site deve ficar nessa pasta.
 
