@@ -1,4 +1,4 @@
-Padrão para sites simples!
+Estrutura de sites simples!
 =============
 É importante ter um padrão para que todos os profissionais da área possa realizar alterações no seu projeto sem dificuldades.
 
