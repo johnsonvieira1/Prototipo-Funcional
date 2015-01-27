@@ -14,4 +14,6 @@ Pasta fonts - Além do Google Fonts você também pode usar outras fontes. Todas
 
 Pasta images - Todas as imagens devem ficar nessa pasta, você pode criar subpastas para melhor organização.
 
+Pasta inc - Estruturas que irão se repetir em todas as páginas como menu e rodapé. 
+
 Pasta js - Scripts em geral devem ficar aqui de forma oganizada, claro.
