@@ -6,7 +6,7 @@ index.php - Esse é o primeiro arquivo que seu navegador vai acessar. Ele deve c
 
 favicon.ico - São pequenas imagens que ficam guardadas para visualização pelo navegador.
 
-Pasta css - Todos os estilos do site deve ficar nessa pasta.
+Pasta assets - Essa pasta é um repositório para ferramenta, nela inserimos as pasta de css, js entre outros...
 
 Pasta docs - Documentação em geral do seu projeto que possa ajudar em algum momento.
 
@@ -15,5 +15,3 @@ Pasta fonts - Além do Google Fonts você também pode usar outras fontes. Todas
 Pasta images - Todas as imagens devem ficar nessa pasta, você pode criar subpastas para melhor organização.
 
 Pasta inc - Estruturas que irão se repetir em todas as páginas como por exemplo menu e rodapé. 
-
-Pasta js - Scripts em geral devem ficar aqui de forma organizada, claro.
