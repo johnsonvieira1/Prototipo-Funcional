@@ -11,7 +11,7 @@
 	<!-- Meta -->
 	<meta name="description" content="descrição do seu site">
 	<meta name="keywords" content="HTML,CSS">
-	<meta name="author" content="Seu Nome">
+	<meta name="author" content="Johnson Vieira - @johnsonvieira">
 	
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>

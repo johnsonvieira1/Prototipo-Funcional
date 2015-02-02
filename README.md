@@ -14,4 +14,8 @@ Pasta fonts - Além do Google Fonts você também pode usar outras fontes. Todas
 
 Pasta images - Todas as imagens devem ficar nessa pasta, você pode criar subpastas para melhor organização.
 
-Pasta inc - Estruturas que irão se repetir em todas as páginas como por exemplo menu e rodapé. 
+Pasta inc - Estruturas que irão se repetir em todas as páginas como por exemplo menu e rodapé.
+
+Dúvidas?
+===============
+Entre em contato www.johnsonvieira.com.br
