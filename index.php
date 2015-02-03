@@ -20,7 +20,7 @@
 	<link rel="stylesheet" href="assets/css/style.css">
 	
 	<!-- Chamando seu script -->
-	<script href="js/"></script>
+	<script href="assets/js/"></script>
 
 </head>
 <body>
