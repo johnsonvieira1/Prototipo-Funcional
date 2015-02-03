@@ -17,7 +17,7 @@
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
 	
 	<!-- Chamando seu arquivo css -->
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="assets/css/style.css">
 	
 	<!-- Chamando seu script -->
 	<script href="js/"></script>
