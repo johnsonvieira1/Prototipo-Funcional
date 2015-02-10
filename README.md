@@ -1,4 +1,4 @@
-Estrutura de sites usando o [Bootstrap](http://getbootstrap.com) e [LESS](http://lesscss.org)!
+Estrutura para sites usando [Bootstrap](http://getbootstrap.com) e [LESS](http://lesscss.org)!
 =============
 É importante manter um padrão para que todos os profissionais da área possa realizar alterações sem dificuldades.
 
