@@ -22,10 +22,9 @@
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
 	
 	<!-- Chamando seu arquivo css -->
-	<link rel="stylesheet/less" href="assets/css/style.less" type="text/css">
+	<link rel="stylesheet" href="assets/css/style.css">
 	
 	<!-- Chamando seu script -->
-	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.3.1/less.min.js"></script>
 	<script href="assets/js/"></script>
 
 </head>
