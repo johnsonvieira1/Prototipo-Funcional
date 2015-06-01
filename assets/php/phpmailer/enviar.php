@@ -1,4 +1,4 @@
-<?php  	
+<?php
 require_once("PHPMailer/class.phpmailer.php");
 
 // Inicia a classe PHPMailer
@@ -10,10 +10,10 @@ $email 	= $_POST['email'];
 $texto 	= $_POST['texto'];
 
 $mail->SMTPAuth 	= true; 					// Define que a mensagem será SMTP
-$mail->Host 		= "smtp.site.com.br"; // Endereço do servidor SMTP
+$mail->Host 		= "smtp.site.com.br";		// Endereço do servidor SMTP
 $mail->Port 		= '587';					// $mail->SMTPSecure = ssl;
-$mail->Username 	= 'site@site.com.br'; // Usuário do servidor SMTP
-$mail->Password 	= '123';				// Senha da caixa postal utilizada
+$mail->Username 	= 'site@site.com.br'; 		// Usuário do servidor SMTP
+$mail->Password 	= '123';					// Senha da caixa postal utilizada
 
 // Define o remetente
 $mail->From 	= "site@site.com.br";
