@@ -1,4 +1,10 @@
-<!--Autor: @johnsonvieira / https://github.com/johnsonvieira1-->
+<!--
+
+	Autor: @johnsonvieira
+	wwww.johnsonvieira.com.br
+
+
+-->
 	
 <?php require ("inc/header.inc.php"); ?>
 

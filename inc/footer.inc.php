@@ -1,4 +1,10 @@
-<!--Autor: @johnsonvieira / https://github.com/johnsonvieira1-->
+<!--
+
+	Autor: @johnsonvieira
+	wwww.johnsonvieira.com.br
+
+
+-->
 
 	<!-- Bootstrap -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>

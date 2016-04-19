@@ -1,37 +1,21 @@
 /* --------------------------------------- */
 /* --------------------------------------- */
 /* 		Autor: Johnson Vieira			   */
-/* 		Site: www.johnsonvieira.com.br     */
+/* 		www.johnsonvieira.com.br    	   */
 /* --------------------------------------- */
 /* --------------------------------------- */
 
-/*RESETANDO ESTILOS*/
-* {
-	text-transform: none;
-	text-decoration: none;
-	margin: 0;
-	padding: 0;
-}
 
-@font-face {
-	font-family: "arial";
-	src: url("../fonts/arial.eot"); /* para IE */
-	src: url("../fonts/arial.ttf");
-}
+// RESET CSS
+@import "reset";
 
+// RESET VARIAVEIS E MIXINS
+@import "variaveis";
+@import "mixins";
 
-/* ----------------------------------- */
-/* ---------->>> PÁGINA <<<----------- */
-/* ----------------------------------- */
+//HOME
+@import "header";
+@import "footer";
 
-
-/* SEÇÃO
-//////////////////////////////////////*/
-
-
-
-
-
-/* --------------------------------------- */
-/* ---------->>> FIM PÁGINA <<<----------- */
-/* --------------------------------------- */
+//RESPONSIVO
+@import "media-queries";
