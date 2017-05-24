@@ -18,4 +18,4 @@ Pasta inc - Estruturas que irão se repetir em todas as páginas como por exempl
 
 Dúvidas?
 ===============
-Entre em contato [a http://johnsonvieira.com.br](www.johnsonvieira.com.br)
+Entre em contato [http://johnsonvieira.com.br](http://johnsonvieira.com.br)
