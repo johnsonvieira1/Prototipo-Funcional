@@ -2,7 +2,7 @@ Estrutura para sites
 =============
 É importante manter um padrão básico de estrutura do projeto. Deste modo, a maioria dos profissionais da área, consegue realizar alterações sem dificuldades e entende qual a lógica utilizada.
 
-*assets* - Pasta geral para ferramentas, nela inserimos as pasta de css, images, js entre outros...
+**assets** - Pasta geral para ferramentas, nela inserimos as pasta de css, images, js entre outros...
 
 *docs* - Documentação geral do projeto pode ajudar em algum momento.
 
