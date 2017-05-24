@@ -1,20 +1,24 @@
 Estrutura para sites
 =============
-É importante manter um padrão para que todos os profissionais da área possa realizar alterações sem dificuldades.
+É importante manter um padrão básico de estrutura do projeto. Deste modo, a maioria dos profissionais da área, consegue realizar alterações sem dificuldades e entende qual a lógica utilizada.
 
-index.php - Esse é o primeiro arquivo que seu navegador vai acessar. Ele deve conter todas as ligações do site.
+*assets* - Pasta geral para ferramentas, nela inserimos as pasta de css, images, js entre outros...
 
-favicon.ico - São pequenas imagens que ficam guardadas para visualização pelo navegador.
+*docs* - Documentação geral do projeto pode ajudar em algum momento.
 
-Pasta assets - Essa pasta é um repositório para ferramenta, nela inserimos as pasta de css, js entre outros...
+*fonts* - Além do Google Fonts você também pode usar outras fontes externas.
 
-Pasta docs - Documentação em geral do seu projeto que possa ajudar em algum momento.
+*inc* - Estruturas que irão se repetir em todas as páginas como por exemplo topo e rodapé.
 
-Pasta fonts - Além do Google Fonts você também pode usar outras fontes. Todas devem ficar nesta pasta.
+*Gruntfile.js* - Estrutura pré configurada.
 
-Pasta images - Todas as imagens devem ficar nessa pasta, você pode criar subpastas para melhor organização.
+*favicon.ico* - Icone que fica na aba do navegador.
 
-Pasta inc - Estruturas que irão se repetir em todas as páginas como por exemplo menu e rodapé.
+*index.php* - Contêm todas as ligações da página.
+
+*packgage.json* - Arquivo para baixar os plugins que estamos utilizando no *gruntfile*.
+
+*sftp-config.json* - Complemento (FTP) do *Sublime Text* para upload direto no servidor.
 
 Dúvidas?
 ===============
