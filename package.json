@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "title": "",
+  "description": "",
+  "homepage": "",
+  "author": "@johnsonvieira",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-less": "^1.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "jit-grunt": "^0.10.0",
+    "npm": "^3.9.2"
+  }
+}
