@@ -1,10 +1,4 @@
-<!--
-
-	Autor: @johnsonvieira
-	wwww.johnsonvieira.com.br
-
-
--->
+<!-- Johnson Vieira - johnsonvieira.com -->
 	
 <?php require ("inc/header.inc.php"); ?>
 

@@ -1,9 +1,4 @@
-<!--
-
-	Autor: @johnsonvieira
-	wwww.johnsonvieira.com.br
-
--->
+<!-- Johnson Vieira - johnsonvieira.com -->
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -20,19 +15,18 @@
 
 	<!-- fonte -->
 
+	<!-- font awesome -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css">
+
 	<!-- bootstrap -->
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" media="all">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
 	
 	<!-- favicon -->
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
 	
 	<!-- css -->
 	<link rel="stylesheet" href="assets/css/style.css">
-	
-	<!-- js -->
-	<script href="assets/js/"></script>
 
 </head>
 <body>
