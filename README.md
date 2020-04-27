@@ -1,4 +1,4 @@
-Estrutura para protótipo funcional
+Estrutura
 =============
 Eu sempre utilizo essa estrutura nos projetos, tentando deixar o mais padronizado possível, para que todos possam realizar modificações sem dificuldade.
 
