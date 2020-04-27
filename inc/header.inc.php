@@ -1,5 +1,3 @@
-<!-- Johnson Vieira - johnsonvieira.com -->
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
