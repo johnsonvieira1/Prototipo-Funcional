@@ -1,6 +1,6 @@
-Estrutura para sites
+Estrutura para protótipo funcional
 =============
-É importante manter um padrão básico de estrutura do projeto. Deste modo, a maioria dos profissionais da área, consegue realizar alterações sem dificuldades e entende qual a lógica utilizada.
+Eu sempre utilizo essa estrutura nos projetos, tentando deixar o mais padronizado possível, para que todos possam realizar modificações sem dificuldade.
 
 **assets** - Pasta geral para ferramentas, nela inserimos as pasta de css, images, js entre outros.
 
@@ -8,7 +8,7 @@ Estrutura para sites
 
 **fonts** - Além do Google Fonts você também pode usar outras fontes externas.
 
-**inc** - Estruturas que irão se repetir em todas as páginas como por exemplo topo e rodapé.
+**inc** - Estruturas que irão se repetir em todas as páginas como por exemplo *header* e *footer*.
 
 **Gruntfile.js** - Estrutura pré configurada.
 
@@ -18,8 +18,8 @@ Estrutura para sites
 
 **packgage.json** - Arquivo para baixar os plugins que estamos utilizando no *gruntfile*.
 
-**sftp-config.json** - Complemento (FTP) do *Sublime Text* para upload direto no servidor.
+**sftp-config.json** - Plugin (FTP) do *Sublime Text* para upload direto no servidor.
 
 Dúvidas?
 ===============
-Entre em contato [http://johnsonvieira.com.br](http://johnsonvieira.com.br)
+Entre em contato [@johnsonvieira](http://twitter.com/johnsonvieira_) ou johnsonvieira1@gmail.com
