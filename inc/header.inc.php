@@ -4,12 +4,12 @@
 	<meta charset="UTF-8">
 
 	<!-- título -->
-	<title>Título do site</title>
+	<title></title>
 	
 	<!-- meta -->
-	<meta name="description" content="descrição do seu site">
-	<meta name="keywords" content="HTML,CSS">
-	<meta name="author" content="Johnson Vieira - @johnsonvieira">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="">
 
 	<!-- fonte -->
 
@@ -18,13 +18,14 @@
 
 	<!-- bootstrap -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 	
 	<!-- favicon -->
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
 	
 	<!-- css -->
-	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/style.min.css">
 
 </head>
 <body>
